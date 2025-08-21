@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DarkStack-Dev/DarkStack-Dev/main/logo.svg" width="100" alt="DarkStack.Dev logo" />
+  <img src="https://raw.githubusercontent.com/DarkStack-Dev/DarkStack-Dev/main/logo.svg" width="100" alt="logo.svg" />
 </p>
 
 <h1 align="center">🚀 DARK STACK</h1>
